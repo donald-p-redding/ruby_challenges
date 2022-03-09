@@ -1,2 +1,2 @@
 # Ignore OSX finder file
-./.DS_Store
+*.DS_Store
